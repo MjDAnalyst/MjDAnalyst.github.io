@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+#Mujidat Fadeyi - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -15,13 +15,32 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+Credit Risk Scoring for Underbanked Populations.
+Objective:Predict loan default risk using machine learning techniques.
+Tools Used: Python, Pandas, Scikit-learn,Matplotlib, Seaborn
+
+Key Insights:
+Customers with lower income showed higher default rates.
+Cluster 1 had the best repayment behavior.
+Education and employment influenced loan performance
+                        
+Business Recommendation
+Banks can use the model to improve loan approval decisions and reduce risk exposure.A brief description of your project, the tools used, and the key insights derived.
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+Heart disease Prediction using machine learning
+Using the UCI Heart Disease Dataset (303 patient records, 14 clinical features), I built a supervised binary classification pipeline to predict the presence of cardiovascular disease.
+Key highlights: Identified medically relevant predictors like chest pain type, maximum heart rate, and ST depression. 
+                        Compared model trade-offs between interpretability and performance.
+Tools used :Python Pandas Scikit-learn , Matplotlib, Seaborn 
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+HR Workforce Analysis
+I transformed raw HR data into strategic workforce insights using SQL and Power BI. 
+Skills: data cleaning and Preparation, data analysis, data visualization and Report writting.
+Tools used SQL, Power BI and Microsoft word
+This HR analytics exercise highlights crucial workforce patterns that influence recruitment, retention, and organizational culture. The insights support more strategic planning on workforce diversity, succession, and resource allocation. With data-driven decision-making, management can enhance employee experience, build a more inclusive workforce, and strengthen long-term organizational sustainability
+
 
 
 ## 🛠️ Skills
