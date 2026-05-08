@@ -19,13 +19,6 @@ Credit Risk Scoring for Underbanked Populations.
 Objective:Predict loan default risk using machine learning techniques.
 Tools Used: Python, Pandas, Scikit-learn,Matplotlib, Seaborn
 
-Key Insights:
-Customers with lower income showed higher default rates.
-Cluster 1 had the best repayment behavior.
-Education and employment influenced loan performance
-                        
-Business Recommendation
-Banks can use the model to improve loan approval decisions and reduce risk exposure.A brief description of your project, the tools used, and the key insights derived.
 
 ### Project Title Two
 Heart disease Prediction using machine learning
@@ -36,10 +29,9 @@ Tools used :Python Pandas Scikit-learn , Matplotlib, Seaborn
 
 ### Project Title Three
 HR Workforce Analysis
-I transformed raw HR data into strategic workforce insights using SQL and Power BI. 
+This HR analytics projects highlights crucial workforce patterns that influence recruitment, retention, and organizational culture. The insights support more strategic planning on workforce diversity, succession, and resource allocation. With data-driven decision-making, management can enhance employee experience, build a more inclusive workforce, and strengthen long-term organizational sustainability
 Skills: data cleaning and Preparation, data analysis, data visualization and Report writting.
 Tools used SQL, Power BI and Microsoft word
-This HR analytics exercise highlights crucial workforce patterns that influence recruitment, retention, and organizational culture. The insights support more strategic planning on workforce diversity, succession, and resource allocation. With data-driven decision-making, management can enhance employee experience, build a more inclusive workforce, and strengthen long-term organizational sustainability
 
 
 
